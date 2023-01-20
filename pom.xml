@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mycompany</groupId>
+	<groupId>bcb33408-e77f-4978-88ea-a1239ab7404d</groupId>
 	<artifactId>hello-world-acm2dbp</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
@@ -126,7 +126,7 @@
 	    <repository>
 	      <id>anypoint-exchange-v3-student-deployment</id>
 	      <name>Student02 Anypoint Exchange</name>
-	      <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/0fa7fe5f-c62d-4086-a851-38e80e1a8cb1/maven</url>
+	      <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/bcb33408-e77f-4978-88ea-a1239ab7404d/maven</url>
 	      <layout>default</layout>
 	    </repository>
 	  </distributionManagement>
