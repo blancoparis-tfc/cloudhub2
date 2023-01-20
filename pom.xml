@@ -45,9 +45,9 @@
 							<vCores>0.1</vCores>
 							<!-- timeout of 4 minutes -->
 							<deploymentTimeout>240000</deploymentTimeout>
-							<properties>
+							<secureProperties>
 								<cicd.welcome.message>${cicd.welcome.message}</cicd.welcome.message>
-							</properties>
+							</secureProperties>
 							<deploymentSettings>
 								<http>
 									<inbound>
