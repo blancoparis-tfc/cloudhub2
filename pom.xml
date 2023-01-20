@@ -4,7 +4,7 @@
 
 	<groupId>bcb33408-e77f-4978-88ea-a1239ab7404d</groupId>
 	<artifactId>hello-world-acm2dbp</artifactId>
-	<version>1.0.0-SNAPSHOT-${environment}</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
 	<name>hello-world-acm2dbp-${environment}</name>
